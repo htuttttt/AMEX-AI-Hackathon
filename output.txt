@@ -1,0 +1,13 @@
+Columns with the least null values:
+ind_recommended                        0
+distance_05                            0
+customer                               0
+merchant                               0
+activation                             0
+                                  ...   
+customer_digital_activity_18    12154010
+customer_digital_activity_08    12154010
+customer_digital_activity_09    12154010
+customer_merchant_01            12219172
+customer_merchant_02            12219172
+Length: 71, dtype: int64
