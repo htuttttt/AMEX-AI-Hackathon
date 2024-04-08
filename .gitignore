@@ -5,6 +5,9 @@
 
 *.csv
 *.txt
+random_forest_model_one_million.joblib
+random_forest_model_whole.joblib
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -56,3 +59,9 @@ coverage.xml
 
 # Sphinx documentation
 docs/_build/
+
+# Models
+logistic_regression/
+naive_bayes/
+random_forest/
+XGBoost
